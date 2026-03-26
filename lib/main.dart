@@ -51,11 +51,6 @@ class WeatherPage extends StatelessWidget {
                       mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                       children: [
                         const Icon(
-                          Icons.wb_sunny_rounded,
-                          size: 150,
-                          color: Colors.orange,
-                        ),
-                        const Icon(
                           Icons.wb_cloudy_rounded,
                           size: 150,
                           color: Colors.orange,
